@@ -9,13 +9,16 @@
 
 ### Instructions:
 
-    - This Website is Designed And Developed To 1440Px Screen. But It's also responsive on almost all Screen Types With Some Differences in Design Flow, But still if you faced an Issue with the scale of the photos try to zoom out your screen to 80% 
+    - This Website is Designed And Developed To 1440Px Screen.
+     But It's also responsive on almost all Screen Types With Some Differences in Design Flow, 
+     But still if you faced an Issue with the scale of the photos try to zoom out your screen to 80% 
     (It's Recommended To Use The Website in one of this Zoom Levels 80% - 90% - 100%).
 
     - It's Highly Recommended To adjust your screen resolution to 1440px 
       To See What's actual design of the website is.
 
-    - If you want to run project locally please try to open the project with live server if it's    available to load the Styles and Scripts correctly.
+    - If you want to run project locally please try to open the project with live server 
+      if it's available to load the Styles and Scripts correctly.
 
 For The Live Demo, click [here](https://mohammed-nasif.github.io/Yannal-Restaurant-Website/).
 ---
