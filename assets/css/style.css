@@ -397,11 +397,11 @@ a {
 		drop-shadow(0px 1.85185px 3.14815px rgba(0, 0, 0, 0.0168519));
 	overflow: hidden;
 }
-.meal-img img {
+/* .meal-img img {
 	-webkit-animation: spin 12s linear infinite;
 	-moz-animation: spin 12s linear infinite;
 	animation: spin 12s linear infinite;
-}
+} */
 .meal-rating {
 	margin-bottom: 1.313rem;
 }
