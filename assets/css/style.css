@@ -398,9 +398,10 @@ a {
 	overflow: hidden;
 }
 .meal-img img {
-	-webkit-animation: spin 12s linear infinite;
-	-moz-animation: spin 12s linear infinite;
-	animation: spin 12s linear infinite;
+	  animation-name: spin;
+  	animation-duration: 5000ms;
+  	animation-iteration-count: infinite;
+  	animation-timing-function: linear; 
 }
 .meal-rating {
 	margin-bottom: 1.313rem;
