@@ -79,6 +79,9 @@
 		width: 60%;
 		margin: 0 auto;
 	}
+	.meal-card div {
+		animation-play-state: paused;
+	}
 	.store {
 		margin-bottom: 10rem;
 	}
