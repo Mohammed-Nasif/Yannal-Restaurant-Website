@@ -397,9 +397,9 @@ a {
 		drop-shadow(0px 1.85185px 3.14815px rgba(0, 0, 0, 0.0168519));
 	overflow: hidden;
 }
-.meal-img img {
+.meal-img div {
 	  animation-name: spin;
-  	animation-duration: 5000ms;
+  	animation-duration: 10000ms;
   	animation-iteration-count: infinite;
   	animation-timing-function: linear; 
 }
@@ -440,6 +440,10 @@ a {
 .sidemenu::-webkit-scrollbar-track {
 	background-color: rgb(234, 0, 0, 0.05);
 }
+.sidemenu::-webkit-scrollbar-thumb {
+	width: 240px;
+	background-color: var(--sec-color);
+}
 .sidemenu li {
 	border-radius: 0.625rem;
 	width: 11.875rem;
@@ -470,7 +474,7 @@ a {
 	transform: translateX(calc(100% - 0.313rem)) skew(-20deg);
 	z-index: -1;
 }
-.sidemenu li:hover ::before {
+/* .sidemenu li:hover ::before {
 	content: '';
 	position: absolute;
 	width: 0.2rem;
@@ -478,7 +482,7 @@ a {
 	right: -51%;
 	height: 80%;
 	top: 15%;
-}
+} */
 .sidemenu li:hover p {
 	color: var(--white-color);
 	opacity: 1;
