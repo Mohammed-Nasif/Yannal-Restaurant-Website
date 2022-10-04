@@ -11,7 +11,7 @@ addProductBtn.forEach((btn) => {
 /*Scroll To Top Btn Functionality*/
 const btn = document.getElementById('popup_btn');
 window.onscroll = () => {
-	if (window.scrollY > 600) {
+	if (window.scrollY > 300) {
 		btn.classList.add('show');
 	} else {
 		btn.classList.remove('show');
