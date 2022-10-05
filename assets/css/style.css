@@ -668,7 +668,7 @@ a {
 /* -- End BestSellet Styles-- */
 /* -- Start Download App Styles-- */
 .down-app {
-	width: 100vw;
+	width: 100%;
 	background-color: rgb(234, 0, 0, 0.05);
 	padding: 3.8rem 11.5rem 2.5rem 11.5rem;
 	gap: 5.25rem;
@@ -802,7 +802,7 @@ a {
 /* -- End Testimonials - News Letter Styles -- */
 /* -- Start Footer Styles -- */
 footer {
-	width: 100vw;
+	width: 100%;
 	min-height: calc(100vh - 17.5rem);
 	padding-top: 8.125rem;
 }
