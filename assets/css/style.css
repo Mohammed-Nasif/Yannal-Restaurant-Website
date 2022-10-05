@@ -30,7 +30,8 @@ a {
 	font-family: var(--sec-font);
 }
 .container {
-	max-width: 92%;
+	width: 92%;
+	max-width: 1440px;
 	margin: 0 auto;
 }
 .flex {
